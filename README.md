@@ -1,1 +1,1 @@
-# sistema-facturacion
+# Sistema de facturación Django
